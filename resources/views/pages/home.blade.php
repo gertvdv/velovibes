@@ -9,7 +9,7 @@
 
     <meta property="og:title" content="VeloVibes - Your happy pace">
     <meta property="og:description" content="Discover a world of biking bliss at VeloVibes, your one-stop-shop for all things bicycle-related.">
-    <meta property="og:image" content="https://www.velovibes.shop/{{ asset('assets/images/og.png') }}"> <!-- URL to your website's thumbnail or logo image -->
+    <meta property="og:image" content="{{ asset('assets/images/og.png') }}"> <!-- URL to your website's thumbnail or logo image -->
     <meta property="og:url" content="https://www.velovibes.shop">
 
     <!-- Fonts -->
